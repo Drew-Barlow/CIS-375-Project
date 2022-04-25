@@ -1,0 +1,10 @@
+C:\Users\Drew\source\repos\CIS 375 Project\CIS 375 Project\bin\Debug\CIS 375 Project.exe.config
+C:\Users\Drew\source\repos\CIS 375 Project\CIS 375 Project\bin\Debug\CIS 375 Project.exe
+C:\Users\Drew\source\repos\CIS 375 Project\CIS 375 Project\bin\Debug\CIS 375 Project.pdb
+C:\Users\Drew\source\repos\CIS 375 Project\CIS 375 Project\obj\Debug\CIS 375 Project.csproj.AssemblyReference.cache
+C:\Users\Drew\source\repos\CIS 375 Project\CIS 375 Project\obj\Debug\CIS_375_Project.Form1.resources
+C:\Users\Drew\source\repos\CIS 375 Project\CIS 375 Project\obj\Debug\CIS_375_Project.Properties.Resources.resources
+C:\Users\Drew\source\repos\CIS 375 Project\CIS 375 Project\obj\Debug\CIS 375 Project.csproj.GenerateResource.cache
+C:\Users\Drew\source\repos\CIS 375 Project\CIS 375 Project\obj\Debug\CIS 375 Project.csproj.CoreCompileInputs.cache
+C:\Users\Drew\source\repos\CIS 375 Project\CIS 375 Project\obj\Debug\CIS 375 Project.exe
+C:\Users\Drew\source\repos\CIS 375 Project\CIS 375 Project\obj\Debug\CIS 375 Project.pdb
